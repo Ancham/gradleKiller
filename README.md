@@ -1,6 +1,6 @@
 # gradleKiller
 
-There is a bug as i know on Ubuntu 20.04 and Fedora 33 that after some builds with gradle that processes are not killed so they are using ram endessly.
+There is a bug as i know on Ubuntu 20.04 and Fedora 33 that after some builds with gradle that processes are not killed so they are using ram endlessly.
 That simple bash script killing that processes on every [time is chosen by user]  
 
 ## Example of usage
